@@ -1,0 +1,41 @@
+.first{
+    width: 700px;
+    height: 100px;
+    background: #d7d0d0;
+    display: flex;
+}
+.block{
+    width: 100px;
+    height: 50px;
+    background: darkblue;
+    border-radius: 5px;
+    margin: 25px 0 0 70px;
+}
+.ikon{
+    font-size:25px;
+    margin-top: 30px;
+}
+.marg{
+    margin-left: 350px;
+    margin-right: 30px;
+}
+.second{
+    width: 700px;
+    height: 400px;
+    background: darkblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.third{
+    width: 700px;
+    height: 200px;
+    background: #d7d0d0;
+}
+.mini{
+    width: 150px;
+    height: 150px;
+    background: dodgerblue;
+    position: relative;
+    bottom: -75px;
+}

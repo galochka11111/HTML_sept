@@ -1,0 +1,35 @@
+.bloks{
+    width: 500px;
+}
+.block_1{
+    height: 220px;
+    background: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.block_2{
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.bl{
+    width: 160px;
+    height: 220px;
+    background: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.block_3{
+    height: 400px;
+    background: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
