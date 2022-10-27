@@ -1,0 +1,57 @@
+.block{
+    width: 350px;
+    height: 470px;
+}
+.main{
+    background: rgba(99,83,83,0.95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.flex{
+    display: flex;
+}
+.flex2{
+    display: flex;
+}
+.block1{
+    height: 50px;
+    width: 80px;
+}
+.block2{
+    margin-left: 5px;
+    height: 50px;
+    width: 265px;
+}
+.m-top{
+    margin-top: 5px;
+}
+.m-left{
+    margin-left: 5px;
+}
+.block3{
+    height: 230px;
+    width: 80px;
+}
+.block4{
+    width: 180px;
+    height: 120px;
+}
+.block5{
+    width: 80px;
+    height: 120px;
+}
+.block6{
+    width: 180px;
+    height: 215px;
+}
+.block7{
+    width: 80px;
+    height: 215px;
+}
+.block10{
+    width: 350px;
+    height: 70px;
+}

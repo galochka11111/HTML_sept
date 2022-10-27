@@ -1,0 +1,29 @@
+@media  screen and (min-width: 100px) and (max-width: 300px){
+    .container{
+        width: 100px;
+        height: 200px;
+    }
+    .a{
+        width: 95px;
+        height: 25px;
+    }
+    .bc{
+        flex-direction: column;
+    }
+    .b{
+        width: 95px;
+        height: 130px;
+    }
+    .c{
+        width: 95px;
+        height: 30px;
+    }
+    .b-2{
+        width: 95px;
+        height: 90px;
+    }
+    .cde{
+        width: 30px;
+        height: 35px;
+    }
+}
